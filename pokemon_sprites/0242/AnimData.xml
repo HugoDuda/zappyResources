@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>2</ShadowSize>
 	<Anims>
@@ -37,7 +37,28 @@
 		</Anim>
 		<Anim>
 			<Name>Punch</Name>
-			<CopyOf>MultiStrike</CopyOf>
+			<Index>2</Index>
+			<FrameWidth>72</FrameWidth>
+			<FrameHeight>88</FrameHeight>
+			<HitFrame>3</HitFrame>
+			<ReturnFrame>6</ReturnFrame>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>3</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>3</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>MultiStrike</Name>

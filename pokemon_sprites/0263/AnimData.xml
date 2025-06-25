@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -43,7 +43,25 @@
     <Anim>
       <Name>Strike</Name>
       <Index>2</Index>
-      <CopyOf>Attack</CopyOf>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <RushFrame>2</RushFrame>
+      <HitFrame>6</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shoot</Name>
@@ -68,7 +86,25 @@
     </Anim>
     <Anim>
       <Name>TailWhip</Name>
-      <CopyOf>RearUp</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <HitFrame>1</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>RearUp</Name>

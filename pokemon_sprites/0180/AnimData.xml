@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -80,11 +80,53 @@
     </Anim>
     <Anim>
       <Name>Emit</Name>
-      <CopyOf>RearUp</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <HitFrame>11</HitFrame>
+      <Durations>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Appeal</Name>
-      <CopyOf>RearUp</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <HitFrame>11</HitFrame>
+      <Durations>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>RearUp</Name>

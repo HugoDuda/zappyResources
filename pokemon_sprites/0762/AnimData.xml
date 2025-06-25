@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -41,16 +41,65 @@
     <Anim>
       <Name>Strike</Name>
       <Index>2</Index>
-      <CopyOf>Attack</CopyOf>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>80</FrameHeight>
+      <RushFrame>3</RushFrame>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>7</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <CopyOf>Charge</CopyOf>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>SpAttack</Name>
-      <CopyOf>Twirl</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>48</FrameHeight>
+      <HitFrame>8</HitFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>6</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Twirl</Name>

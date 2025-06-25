@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -63,12 +63,46 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <CopyOf>Charge</CopyOf>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>56</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Strike</Name>
       <Index>4</Index>
-      <CopyOf>Attack</CopyOf>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>88</FrameHeight>
+      <RushFrame>1</RushFrame>
+      <HitFrame>6</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Sleep</Name>

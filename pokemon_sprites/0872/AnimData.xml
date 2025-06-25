@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>0</ShadowSize>
   <Anims>
@@ -38,7 +38,24 @@
     <Anim>
       <Name>Strike</Name>
       <Index>2</Index>
-      <CopyOf>Attack</CopyOf>
+      <FrameWidth>56</FrameWidth>
+      <FrameHeight>56</FrameHeight>
+      <RushFrame>2</RushFrame>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>7</ReturnFrame>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shoot</Name>

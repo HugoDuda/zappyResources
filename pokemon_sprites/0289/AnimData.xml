@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>2</ShadowSize>
 	<Anims>
@@ -81,7 +81,24 @@
 		</Anim>
 		<Anim>
 			<Name>Appeal</Name>
-			<CopyOf>Dance</CopyOf>
+			<Index>4</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>64</FrameHeight>
+			<HitFrame>5</HitFrame>
+			<Durations>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>4</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>4</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Dance</Name>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>1</ShadowSize>
 	<Anims>
@@ -42,12 +42,48 @@
 		<Anim>
 			<Name>Strike</Name>
 			<Index>2</Index>
-			<CopyOf>Attack</CopyOf>
+			<FrameWidth>64</FrameWidth>
+			<FrameHeight>72</FrameHeight>
+			<RushFrame>1</RushFrame>
+			<HitFrame>2</HitFrame>
+			<ReturnFrame>6</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Shoot</Name>
 			<Index>3</Index>
-			<CopyOf>Charge</CopyOf>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<HitFrame>5</HitFrame>
+			<ReturnFrame>9</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Withdraw</Name>
@@ -92,7 +128,13 @@
 		<Anim>
 			<Name>Idle</Name>
 			<Index>7</Index>
-			<CopyOf>Walk</CopyOf>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>120</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Swing</Name>

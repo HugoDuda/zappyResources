@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>0</ShadowSize>
 	<Anims>
@@ -87,9 +87,22 @@
 		<Anim>
 			<Name>Twirl</Name>
 			<Index>4</Index>
-			<CopyOf>Rotate</CopyOf>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>24</FrameHeight>
+			<HitFrame>8</HitFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
-		<Anim>
+	<Anim>
 			<Name>Sleep</Name>
 			<Index>5</Index>
 			<FrameWidth>32</FrameWidth>

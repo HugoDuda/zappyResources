@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -81,7 +81,22 @@
     </Anim>
     <Anim>
       <Name>Scratch</Name>
-      <CopyOf>Strike</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <HitFrame>2</HitFrame>
+      <ReturnFrame>5</ReturnFrame>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Sleep</Name>

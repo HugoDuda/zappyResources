@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>2</ShadowSize>
 	<Anims>
@@ -37,7 +37,22 @@
 		<Anim>
 			<Name>Strike</Name>
 			<Index>2</Index>
-			<CopyOf>Attack</CopyOf>
+			<FrameWidth>88</FrameWidth>
+			<FrameHeight>120</FrameHeight>
+			<HitFrame>2</HitFrame>
+			<ReturnFrame>5</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Shoot</Name>
@@ -70,7 +85,29 @@
 		</Anim>
 		<Anim>
 			<Name>SpAttack</Name>
-			<CopyOf>RearUp</CopyOf>
+			<Index>4</Index>
+			<FrameWidth>80</FrameWidth>
+			<FrameHeight>96</FrameHeight>
+			<HitFrame>10</HitFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>RearUp</Name>

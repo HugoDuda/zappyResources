@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -78,12 +78,45 @@
     </Anim>
     <Anim>
       <Name>SpAttack</Name>
-      <CopyOf>Shoot</CopyOf>
+      <Index>3</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <HitFrame>6</HitFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>4</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Appeal</Name>
       <Index>4</Index>
-      <CopyOf>Shoot</CopyOf>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <HitFrame>6</HitFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>4</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Sleep</Name>

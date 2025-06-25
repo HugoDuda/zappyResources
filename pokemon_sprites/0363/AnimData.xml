@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -40,7 +40,23 @@
     <Anim>
       <Name>Strike</Name>
       <Index>2</Index>
-      <CopyOf>Attack</CopyOf>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <RushFrame>1</RushFrame>
+      <HitFrame>4</HitFrame>
+      <ReturnFrame>6</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>6</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shoot</Name>
@@ -65,11 +81,41 @@
     </Anim>
     <Anim>
       <Name>SpAttack</Name>
-      <CopyOf>RearUp</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <HitFrame>1</HitFrame>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Rumble</Name>
-      <CopyOf>RearUp</CopyOf>
+      <Index>4</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <HitFrame>1</HitFrame>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>RearUp</Name>

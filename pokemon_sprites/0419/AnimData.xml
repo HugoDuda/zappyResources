@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>1</ShadowSize>
 	<Anims>
@@ -85,7 +85,24 @@
 		</Anim>
 		<Anim>
 			<Name>Rumble</Name>
-			<CopyOf>SpAttack</CopyOf>
+			<Index>4</Index>
+			<FrameWidth>40</FrameWidth>
+			<FrameHeight>56</FrameHeight>
+			<HitFrame>0</HitFrame>
+			<ReturnFrame>6</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>8</Duration>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>6</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>SpAttack</Name>

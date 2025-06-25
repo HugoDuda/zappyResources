@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>1</ShadowSize>
 	<Anims>
@@ -141,7 +141,14 @@
 		<Anim>
 			<Name>Idle</Name>
 			<Index>7</Index>
-			<CopyOf>Walk</CopyOf>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>48</FrameHeight>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Swing</Name>

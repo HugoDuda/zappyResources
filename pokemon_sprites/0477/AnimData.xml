@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>1</ShadowSize>
 	<Anims>
@@ -82,7 +82,23 @@
 		</Anim>
 		<Anim>
 			<Name>SpAttack</Name>
-			<CopyOf>Emit</CopyOf>
+			<Index>4</Index>
+			<FrameWidth>48</FrameWidth>
+			<FrameHeight>80</FrameHeight>
+			<HitFrame>0</HitFrame>
+			<ReturnFrame>7</ReturnFrame>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Emit</Name>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>0</ShadowSize>
 	<Anims>
@@ -83,7 +83,24 @@
 		<Anim>
 			<Name>Jab</Name>
 			<Index>4</Index>
-			<CopyOf>Strike</CopyOf>
+			<FrameWidth>72</FrameWidth>
+			<FrameHeight>72</FrameHeight>
+			<RushFrame>2</RushFrame>
+			<HitFrame>5</HitFrame>
+			<ReturnFrame>7</ReturnFrame>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>Sleep</Name>

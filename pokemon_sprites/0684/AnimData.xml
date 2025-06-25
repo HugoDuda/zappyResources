@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -37,7 +37,18 @@
     </Anim>
     <Anim>
       <Name>Dance</Name>
-      <CopyOf>Shake</CopyOf>
+      <Index>2</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>24</FrameHeight>
+      <HitFrame>3</HitFrame>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shake</Name>

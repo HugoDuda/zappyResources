@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
   <ShadowSize>0</ShadowSize>
   <Anims>
@@ -41,12 +41,53 @@
     </Anim>
     <Anim>
       <Name>Strike</Name>
-      <CopyOf>Attack</CopyOf>
+      <Index>1</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <RushFrame>3</RushFrame>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Slam</Name>
       <Index>2</Index>
-      <CopyOf>Attack</CopyOf>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <RushFrame>3</RushFrame>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shoot</Name>

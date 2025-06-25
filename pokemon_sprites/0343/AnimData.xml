@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <AnimData>
 	<ShadowSize>1</ShadowSize>
 	<Anims>
@@ -102,7 +102,25 @@
 		</Anim>
 		<Anim>
 			<Name>SpAttack</Name>
-			<CopyOf>RearUp</CopyOf>
+			<Index>4</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>48</FrameHeight>
+			<HitFrame>4</HitFrame>
+			<Durations>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
 		</Anim>
 		<Anim>
 			<Name>RearUp</Name>
