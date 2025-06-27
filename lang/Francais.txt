@@ -20,3 +20,6 @@ SETTING_APPLY_AND_LEAVE=Appliquer et quitter
 SETTING_LEAVE=Quitter sans appliquer
 SETTING_ENABLED=Activees
 SETTING_DISABLED=Desactivees
+PLAYER=Joueur
+TEAM=Equipe
+LEVEL=Niveau

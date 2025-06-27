@@ -20,3 +20,6 @@ SETTING_APPLY_AND_LEAVE=Apply and quit
 SETTING_LEAVE=Quit without apply
 SETTING_ENABLED=Enabled
 SETTING_DISABLED=Disabled
+PLAYER=Player
+TEAM=Team
+LEVEL=Level
